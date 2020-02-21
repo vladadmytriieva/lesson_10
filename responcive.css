@@ -1,0 +1,90 @@
+@media (max-width: 835px) {
+    .baner_text_1 {
+        margin-top: 5px;
+    }    
+    .header  {
+        flex-direction: column;
+    }
+    .header .menu ul {
+        flex-direction: column;
+        align-self: center;
+    }
+    .header .menu ul li {
+        margin: 5px;
+    }
+    .advantages .block{
+        flex-direction: column;
+    } 
+    .buy {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px auto;
+    }
+
+    .flash_drive {
+        margin-top: 50px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .flash_drive_img {
+        height: 350px;
+        width: 50%;
+        text-align: center;
+    }
+    .flash_drive_text_1 {
+        text-align: center;
+        margin-left: 0px;
+    }
+    .flash_drive_text_2 {
+        text-align: center;
+        margin-right: 0px;;
+    }
+  
+    .numeral {
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+        margin: 20px 40px;
+    }
+  
+    .contacts_block {
+        width: 50%;
+    }  
+
+
+    }
+
+
+
+
+    @media (max-width: 735px) {
+    .block_reviews {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .block_reviews_2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer {
+        height: 210px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer_img_logo {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .footer_img {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+
+    
+    }
